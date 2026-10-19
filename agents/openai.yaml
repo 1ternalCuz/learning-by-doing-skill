@@ -1,0 +1,4 @@
+interface:
+  display_name: "实践学习教练"
+  short_description: "围绕真实目标分级练习，逐题反馈、费曼复述，并用独立任务验收掌握程度"
+  default_prompt: "用 $learning-by-doing 带我学习这个主题，围绕我的实际用途，从一项能检验当前基础的小任务开始。"
